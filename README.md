@@ -1,5 +1,5 @@
 ### Nilesh Shinde
-(+91) 8380854583 | [view] nilesh17shinde@gmail.com | Old Sangavi Pune
+(+91) 8380854583 | nilesh17shinde@gmail.com | Old Sangavi Pune
 
 ## WORK EXPERIENCE (Intern):
 RSL Solution Private Limited | Java Developer Intern | 6-Month
@@ -13,21 +13,21 @@ password storage.
 - Collaborated with the team to fix issues and enhance web features.
 ## EDUCATION:
 - Indira College of commerce and Science Pune 2022
-1. MSC Computer Science 73.45%
+. MSC Computer Science 73.45%
 - New arts commerce and science college Parner 2019
-1. BSC Computer Science 53.31%
+. BSC Computer Science 53.31%
 ## PROJECTS:
 - Web Based Agriculture Market:
-➢ Created a user-friendly online agricultural market platform.
-➢ Enabled direct transactions between farmers and customers, eliminating intermediaries.
-➢ Ensured fair prices for farmers and a convenient buying experience for customers.
+1. Created a user-friendly online agricultural market platform.
+2. Enabled direct transactions between farmers and customers, eliminating intermediaries.
+3. Ensured fair prices for farmers and a convenient buying experience for customers.
 - Employee Management System:
-➢ Created a system for easy employee management, including attendance tracking, scheduling, and payroll.
-➢ Streamlined work processes and improved organization.
+1. Created a system for easy employee management, including attendance tracking, scheduling, and payroll.
+2. Streamlined work processes and improved organization.
 - Full Stack Application:
-➢ Developed a full-stack CRUD web application using Spring Boot for the backend and React for the frontend.
-➢ Managed user data persistence through JPA/Hibernate in a MySQL database.
-➢ Implemented RESTful API endpoints for user record operations.
+1. Developed a full-stack CRUD web application using Spring Boot for the backend and React for the frontend.
+2. Managed user data persistence through JPA/Hibernate in a MySQL database.
+3. Implemented RESTful API endpoints for user record operations.
 ## SKILLHIGHLIGHTS:
 - Programming Languages: Java
 - Framework: Spring Boot, J2EE, Hibernate/JPA, RESTful API
