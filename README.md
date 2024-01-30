@@ -2,7 +2,7 @@
 (+91) 8380854583 | nilesh17shinde@gmail.com | Old Sangavi Pune
 
 ## WORK EXPERIENCE (Intern):
-RSL Solution Private Limited | Java Developer Intern | 6-Month
+### RSL Solution Private Limited | Java Developer Intern | 6-Month
 - Developed Java Web-Applications, contributing to Java-based web application projects.
 - Architected a powerful backend infrastructure leveraging Spring Boot, delivering a 50% improvement in system performance.
 - Implemented data storage with Hibernate JPA and MySQL, facilitating seamless information handling.
