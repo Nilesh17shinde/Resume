@@ -13,9 +13,9 @@ password storage.
 - Collaborated with the team to fix issues and enhance web features.
 ## EDUCATION:
 - Indira College of commerce and Science Pune 2022
-MSC Computer Science 73.45%
+! MSC Computer Science 73.45%
 - New arts commerce and science college Parner 2019
-BSC Computer Science 53.31%
+! BSC Computer Science 53.31%
 ## PROJECTS:
 - Web Based Agriculture Market:
 ➢ Created a user-friendly online agricultural market platform.
