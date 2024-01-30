@@ -1,4 +1,4 @@
-                         ### Nilesh Shinde
+### Nilesh Shinde
 (+91) 8380854583 | nilesh17shinde@gmail.com | Old Sangavi Pune
 
 ## WORK EXPERIENCE (Intern):
