@@ -1,6 +1,6 @@
-Nilesh Shinde
+### Nilesh Shinde
 
-(+91) 8380854583 | nilesh17shinde@gmail.com | LinkedIn | Pune
+## (+91) 8380854583 | nilesh17shinde@gmail.com | LinkedIn | Pune
 
 WORK EXPERIENCE (Intern):
 RSL Solution Private Limited | Java Developer Intern | 6-Month
